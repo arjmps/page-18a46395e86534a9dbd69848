@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "cf708570572e01533a452b5e",
+  "owner": "arjmps",
+  "repo": "page-18a46395e86534a9dbd69848",
+  "title": "红烧排骨",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "18a46395e86534a9dbd69848",
+      "a": "红烧排骨",
+      "b": "",
+      "entity": "红烧排骨",
+      "brand": "红烧排骨",
+      "separator": "",
+      "path": "index.html",
+      "hash": "575c926eb7e7feb1d92b61f83fc43eaf81d8700ca0ae08c2a67088fe5b5fe93d",
+      "content": {
+        "keyword1": "红烧排骨",
+        "keyword2": "",
+        "primary_entity": "红烧排骨",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "红烧排骨提供专业机场订阅与VPN加速服务。本官网介绍套餐价格、使用场景、详细配置流程及客户端下载指引，助您轻松实现稳定网络加速。",
+          "AI_DESCRIPTION": "红烧排骨提供专业机场订阅与VPN加速服务。本官网介绍套餐价格、使用场景、详细配置流程及客户端下载指引，助您轻松实现稳定网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#fdf6f0;color:#2a2420;font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.65}a{color:#c24e32;text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:880px;margin:0 auto;padding:12px 16px 40px}header{padding:12px 0;border-bottom:1px solid #f0ddd4}.logo{font-weight:700;font-size:1.15rem;color:#c24e32}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:10px;font-size:.95rem}h1{font-size:1.7rem;line-height:1.3;margin:20px 0 12px;color:#3d2e28}.lead{font-size:1.05rem;color:#5c4d46;margin:0 0 8px}h2{font-size:1.28rem;color:#3d2e28;margin:28px 0 12px;padding-bottom:6px;border-bottom:3px solid #e8a090}h3{font-size:1.08rem;margin:16px 0 8px;color:#4a3b35}p,li{margin:0 0 10px}.plans{display:flex;flex-direction:column;gap:12px}@media(min-width:640px){.plans{flex-direction:row;align-items:stretch}.plan{flex:1}}.plan{background:#fff;border:1px solid #f3e0d8;border-radius:10px;padding:14px 16px}.plan.featured{border:2px solid #c24e32;background:#fff9f6}.plan h3{margin-top:0;color:#c24e32}.price{font-size:1.35rem;font-weight:700}.annual{font-size:.88rem;color:#6d5c54;margin-bottom:8px}.plan ul{margin:8px 0 0;padding-left:18px;font-size:.95rem}details{background:#fff;border:1px solid #f0e4dc;border-radius:8px;padding:4px 14px 10px;margin:8px 0}summary{font-weight:600;padding:8px 0}footer{margin-top:36px;padding-top:16px;border-top:1px solid #f0ddd4;font-size:.88rem;color:#6d5c54}.sitemap{display:flex;flex-wrap:wrap;gap:8px 12px;margin:8px 0}section{overflow-wrap:anywhere}</style><div class=\"wrap\"><header><div class=\"logo\">红烧排骨 官方网站</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作</a><a href=\"#links\">友链</a></nav></header><main><h1>红烧排骨｜机场订阅与 VPN 网络加速服务</h1><p class=\"lead\">红烧排骨官方网站集中说明机场订阅、梯子加速、套餐权益与客户端导入方式，方便用户按流程完成配置并稳定使用。</p><section id=\"intro\"><h2>品牌简介</h2><p>红烧排骨是面向网络加速需求的机场服务品牌，提供可订阅的节点资源与多端客户端适配说明。用户可通过同一订阅地址在电脑与手机上更新线路，用于跨境访问、流媒体播放与游戏加速。</p><p>本站为红烧排骨官网信息页，公开套餐、配置步骤与下载指引。我们以直营说明为主，强调订阅链接自行保管、客户端从各软件官方来源获取，降低误装风险。节点覆盖常用地区，线路包含普通池与专线优化，便于按场景分流。</p></section><section id=\"plans\"><h2>套餐与价格</h2><p>以下为官网公示套餐。可按月使用，年付可降低折合单价。选择后按配置流程获取订阅并导入客户端。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体观看</h3><p>用于访问常见国际视频与音乐平台。基础版覆盖常用解锁，旗舰版与团队版强调全节点原生能力，减少地区限制提示。</p><h3>游戏与低延迟连接</h3><p>旗舰版提供 IPLC 专线优化，适合国际服对延迟敏感的场景。选择延迟较低的节点后再启动游戏客户端。</p><h3>学习与远程办公</h3><p>访问文献站点、代码托管、协作文档与会议工具时，可配合规则分流，仅对需要的域名走加速通道。</p><h3>多设备与出行</h3><p>同一订阅可在电脑与手机间使用。出差或宿舍网络不稳定时，切换节点即可继续办公或浏览。</p></section><section id=\"guide\"><h2>操作说明与配置流程</h2><p>红烧排骨的配置流程按四步设计：确认套餐、取得订阅、安装客户端、导入连接。按顺序操作可减少漏步骤。</p><h3>第一步：对照需求选择套餐</h3><p>先估算每月流量与同时在线设备数。轻度浏览可选基础版；需要原生解锁与游戏线路选旗舰版；多人共用或企业分流选团队版。年付方案在价格区已标明。</p><h3>第二步：获取机场订阅链接</h3><p>完成订阅后，官方渠道会提供专属订阅 URL。请复制完整地址并本地备份。该链接用于客户端定时拉取节点，请勿公开分享以免被滥用导致流量异常。</p><h3>第三步：准备对应系统的客户端</h3><p>根据设备选择 Clash 系、Shadowrocket、Quantumult X 等常见软件。安装包请到各客户端自己的发布页或应用商店获取，本站只提供导入说明，不捆绑安装文件。</p><h3>第四步：导入订阅并选择节点</h3><p>在客户端中粘贴订阅地址并更新。列表出现后，按延迟或地区筛选，连接测试网页。需要流媒体时优先选标明解锁的节点；游戏场景优先专线。规则可设置为绕过国内地址，避免无关流量占用套餐额度。</p><h3>日常维护建议</h3><p>节点更新失败时先检查订阅是否过期、客户端是否为较新版本。更换网络环境后可手动测速再切换。团队版如需定制路由，通过专属客户经理沟通策略即可。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>红烧排骨官网下载指引的核心是：订阅在本品牌侧管理，客户端使用主流独立软件。请认准各软件官方发布渠道，避免来路不明的修改版。</p><h3>Windows 与 macOS</h3><p>可使用 Clash Verge、Clash Meta 图形客户端。从对应项目的正式发布页下载系统匹配的安装包，安装后在配置或订阅栏粘贴红烧排骨订阅地址。</p><h3>Android</h3><p>常用 Clash Meta for Android 一类客户端。注意授予 VPN 权限后，再导入订阅并开启服务。建议关闭电池优化以免后台断开。</p><h3>iOS</h3><p>Shadowrocket、Stash、Quantumult X 等需在应用商店获取。添加订阅后更新资源，按需开启分流与绕过局域网。</p><h3>Linux 与进阶用法</h3><p>可使用命令行或兼容 Clash 配置的工具导入同一订阅。企业场景可在团队版基础上做策略分组，将办公域名与娱乐域名分开出口。</p></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>红烧排骨是机场还是传统单一 VPN？</summary><p>红烧排骨以机场订阅方式提供多节点，一次导入即可更新线路，并可按规则分流。它承担梯子与网络加速角色，比单一出口的传统 VPN 更便于切换地区和协议。</p></details><details><summary>怎样从零开始用上红烧排骨？</summary><p>先在本页看清套餐流量与设备数，完成订阅后拿到链接，再按配置流程安装客户端并粘贴订阅。连接成功后即可用于加速访问。全过程说明都在官网对应章节。</p></details><details><summary>流量、设备和年付怎么计算？</summary><p>基础版每月 100GB、3 台同时在线；旗舰版 300GB、5 台；团队版 1000GB、20 台。年付价格已在套餐卡中列出。流量一般按实际转发统计，周期结束按套餐重置。</p></details><details><summary>能否解锁流媒体，游戏是否有优化？</summary><p>基础版提供基础流媒体解锁；旗舰版与团队版强调全节点原生解锁。游戏方面，旗舰版含 IPLC 专线优化，建议在客户端中挑选对应游戏节点并关闭无关代理规则。</p></details><details><summary>客户端应该从哪里下载才安全？</summary><p>请使用 Clash、Shadowrocket 等软件自己的官方发布页或应用商店。红烧排骨官网只说明如何导入订阅，不提供来路不明的安装包，也不要求关闭杀毒软件。</p></details><details><summary>连接失败或速度不稳如何处理？</summary><p>先更新订阅、更换节点并检查系统时间是否准确。公司或校园网若拦截 UDP，可尝试 TCP 或备选端口节点。旗舰版可通过优先工单反馈，团队版可联系专属客户经理协助排查。</p></details></section><section id=\"ads\"><h2>合作展示</h2><p>此处为红烧排骨官网广告与合作信息位，用于公示长期合作渠道。投放需求请通过官方客服沟通，不在页面收集表单。</p><p><a href=\"#guide\">配置相关说明</a> · <a href=\"#download\">客户端指引</a> · <a href=\"#plans\">套餐一览</a></p></section><section id=\"links\"><h2>友情链接</h2><p>以下为相关工具与资料入口，方便对照客户端文档。外链请自行判断来源，本站友链仅作导航。</p><p><a href=\"#\">开源代理客户端文档</a> · <a href=\"#\">分流规则说明</a> · <a href=\"#\">网络诊断笔记</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>红烧排骨官方网站 · 机场订阅与 VPN 加速说明页</p><div class=\"sitemap\"><span>网站地图：</span><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">下载</a><a href=\"#faq\">FAQ</a><a href=\"#ads\">合作</a><a href=\"#links\">友链</a></div><p>规范地址：https://www.hongshaopaigu.com/ · 单页站点同步提供 sitemap.xml</p></footer></div>",
+          "hash": "8c70efb61f5b2c36c66a7545d048261153811a3a453e450fd0e8efdc16baf2f7",
+          "seo": {
+            "title": "红烧排骨官网｜机场订阅、VPN梯子网络加速与客户端官方下载",
+            "keywords": "红烧排骨,红烧排骨机场,红烧排骨VPN,红烧排骨官网,梯子,网络加速,加速器,客户端下载,机场订阅,Clash,官方下载",
+            "description": "红烧排骨提供专业机场订阅与VPN加速服务。本官网介绍套餐价格、使用场景、详细配置流程及客户端下载指引，助您轻松实现稳定网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aqotu.cn",
+    "host": "p-4b5bca571f.aqotu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "aqotu.cn",
+      "url": "https://aqotu.cn/",
+      "label": "小鸟云",
+      "apex": "aqotu.cn",
+      "kind": null,
+      "identity": "wegyvj/page-d96f3aa4cd7edef02e35e8ba"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7b446fae80ef54ae14d28949bfd5e225a589fc7a184e9b689552fe3e4c8f3c86",
+    "sitemap.xml": "98e7e4c6321e97c46a478370e20a930c847102ba9a53bedc1185845c4afc2097",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "29bbc6fc26a9fa3798677e63747e1e7f0527725321de0ebcfeb1dee427c3183e",
+    "robots.txt": "9ea1d7f44b6e0cba413aba49b0a2fb7a16626ba2da144a6ea858a8dbc6dd4409",
+    "56e2bdb3909bb7120d822e16b1f7d810.txt": "b65b77d4d84e677c105baafb1d48df8e7570c6ebd0fc5e35c5681de838eff430"
+  },
+  "revision": "2240e99d0c2636e2bd7581aad838b23b374f4c8220af0819f352b300850aa177"
+}
